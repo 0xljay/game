@@ -1,6 +1,6 @@
 # game
 
-This repository is a type of game. It's not really a game, but I don't know what else to call it. 
+This repository contains a type of game.
 
 I guess the point is to examine ones belief system through questions. Then store the data somehow and compare. This should yield more questions..
 
